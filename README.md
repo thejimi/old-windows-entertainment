@@ -17,5 +17,5 @@
 - winmine.exe
 
 ## Legal
-I am not the owner of those application. They were made by Microsoft Company. 
+I am not the owner of these applications. They were made by Microsoft Company. 
 I have only copied the code and made it compatible with modern Windows.
